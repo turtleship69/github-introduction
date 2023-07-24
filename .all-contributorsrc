@@ -29,6 +29,18 @@
         "talk",
         "mentoring"
       ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5370471?v=4",
+      "profile": "http://malvikasharan.github.io/",
+      "contributions": [
+        "review",
+        "mentoring",
+        "content",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
