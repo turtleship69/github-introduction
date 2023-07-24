@@ -1,4 +1,7 @@
 # Git Good: Introduction to Github
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository has been set up to accompany the Introduction to GitHub workshop. 
 
@@ -24,6 +27,20 @@ To learn more about how to create a README.md file, please read the [Landing Pag
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.brainonsilicon.com"><img src="https://avatars.githubusercontent.com/u/42813259?v=4?s=100" width="100px;" alt="Sophia Batchelor"/><br /><sub><b>Sophia Batchelor</b></sub></a><br /><a href="https://github.com/alan-turing-institute/github-introduction/commits?author=BrainonSilicon" title="Documentation">📖</a> <a href="#eventOrganizing-BrainonSilicon" title="Event Organizing">📋</a> <a href="#talk-BrainonSilicon" title="Talks">📢</a> <a href="#mentoring-BrainonSilicon" title="Mentoring">🧑‍🏫</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 

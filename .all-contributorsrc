@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "BrainonSilicon",
+      "name": "Sophia Batchelor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42813259?v=4",
+      "profile": "http://www.brainonsilicon.com",
+      "contributions": [
+        "doc",
+        "eventOrganizing",
+        "talk",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "github-introduction",
+  "projectOwner": "alan-turing-institute"
+}
