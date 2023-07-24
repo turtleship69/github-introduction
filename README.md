@@ -1,2 +1,15 @@
-# github-introduction
-Repository to accompany the Introduction to GitHub workshop
+# Git Good: Introduction to Github
+
+This repository has been set up to accompany the Introduction to GitHub workshop. 
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
