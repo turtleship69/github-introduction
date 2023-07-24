@@ -20,7 +20,7 @@ This repository takes inspiration and guidance provided in *[The Turing Way](htt
 
 When reusing this repository, please update information on this README page with information about your project. 
 
-When it comes to using this template repo for your project work - remeber to selectthe `Template` button and **Create a New Repository**. All the files will be copied across and set up in a new repo for your project, You will need to decide who in your group will do this step to become the "owner" of the repository and then you can submit work via Branches, Forks, and Pull Requests using the skills you have learnt in this workshop
+When it comes to using this template repo for your project work - remember to select the `Template` button and **Create a New Repository**. All the files will be copied across and set up in a new repo for your project. You will need to decide who in your group will do this step to become the "owner" of the repository and then you can submit work via Branches, Forks, and Pull Requests using the skills you have learnt in this workshop
 
 
 
