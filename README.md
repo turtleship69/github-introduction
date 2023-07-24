@@ -1,6 +1,6 @@
 # Git Good: Introduction to Github
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository has been set up to accompany the Introduction to GitHub workshop. 
@@ -34,6 +34,7 @@ To learn more about how to create a README.md file, please read the [Landing Pag
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://www.brainonsilicon.com"><img src="https://avatars.githubusercontent.com/u/42813259?v=4?s=100" width="100px;" alt="Sophia Batchelor"/><br /><sub><b>Sophia Batchelor</b></sub></a><br /><a href="https://github.com/alan-turing-institute/github-introduction/commits?author=BrainonSilicon" title="Documentation">📖</a> <a href="#eventOrganizing-BrainonSilicon" title="Event Organizing">📋</a> <a href="#talk-BrainonSilicon" title="Talks">📢</a> <a href="#mentoring-BrainonSilicon" title="Mentoring">🧑‍🏫</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="https://github.com/alan-turing-institute/github-introduction/commits?author=cassgvp" title="Documentation">📖</a> <a href="#talk-cassgvp" title="Talks">📢</a> <a href="#mentoring-cassgvp" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eirini-zormpa"><img src="https://avatars.githubusercontent.com/u/30151074?v=4?s=100" width="100px;" alt="Eirini Zormpa"/><br /><sub><b>Eirini Zormpa</b></sub></a><br /><a href="https://github.com/alan-turing-institute/github-introduction/commits?author=eirini-zormpa" title="Documentation">📖</a> <a href="#mentoring-eirini-zormpa" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/alan-turing-institute/github-introduction/pulls?q=is%3Apr+reviewed-by%3Aeirini-zormpa" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
