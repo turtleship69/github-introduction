@@ -29,6 +29,17 @@
         "talk",
         "mentoring"
       ]
+    },
+    {
+      "login": "EKaroune",
+      "name": "Emma Karoune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58147174?v=4",
+      "profile": "https://github.com/EKaroune",
+      "contributions": [
+        "talk",
+        "review",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
