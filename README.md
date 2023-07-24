@@ -9,7 +9,7 @@ This repository has been set up to accompany the Introduction to GitHub workshop
 ## About the README
 
 In an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
+The README page should describe the project -- what the purpose of the project is, who is involved, how to collaborate and where to find key resources.
 
 To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
 
