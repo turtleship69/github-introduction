@@ -6,19 +6,21 @@
 This repository has been set up to accompany the Introduction to GitHub workshop. 
 
 
+## About the README
+
+In an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
+README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
+
+To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
+
+
 ## About this Repository
 
 This repository takes inspiration and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science on how to set up and structure a repository to support collaboration in data science projects. It includes files and directories that are recommended for enabling collaboration in a project, as well as sharing of research outputs.
 
-When reusing this repository, please update information on your README page with information about your project.
+When reusing this repository, please update information on this README page with information about your project. 
 
-
-## About the README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
+When it comes to using this template repo for your project work - remeber to selectthe `Template` button and **Create a New Repository**. All the files will be copied across and set up in a new repo for your project, You will need to decide who in your group will do this step to become the "owner" of the repository and then you can submit work via Branches, Forks, and Pull Requests using the skills you have learnt in this workshop
 
 
 
