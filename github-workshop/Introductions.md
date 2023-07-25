@@ -7,23 +7,26 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What is your favourite pizza topping?
 
-
-1. Cheese
-2. 
-3. 
+1. PINEAPPLE
+2. Jalapeños 
+3. mushroom
 4. 
-5. 
+5. curry
 6. 
 7. 
-8. 
+8. olives
 9. 
 10. 
-11. 
+11. Watermelon 🍉 (funny) 
 12. Tuna
 13. 
 14. 
 15. 
 16. 
 17. 
-18. 
-19. 
+18. Chicken
+19. Orange 🍊 
+20. 
+21. 
+22. 
+
