@@ -15,7 +15,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 4. 
 5. olives
 6. 
-7. APPLES
+7. 
 8. Watermelon 🍉 (funny) 
 9. 
 10. 
@@ -23,8 +23,8 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 12. 
 13. 
 14. 
-15. Chicken🍗
-16. 
+15. Chicken
+16. Orange 🍊 
 17. 
 18. 
 19. 
