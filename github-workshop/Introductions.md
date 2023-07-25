@@ -18,7 +18,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 9. 
 10. 
 11. Watermelon 🍉 (funny) 
-12. 
+12. Tuna
 13. 
 14. 
 15. 
