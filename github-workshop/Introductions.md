@@ -10,20 +10,8 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 1. Cheese
 2. 
-3. 
+3. mashroom
 4. 
 5. 
 6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
+   
