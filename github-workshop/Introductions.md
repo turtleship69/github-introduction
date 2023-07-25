@@ -24,7 +24,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 12. 
 13. 
 14. 
-15. Chicken
+15. Chicken🍗
 16. 
 17. 
 18. 
