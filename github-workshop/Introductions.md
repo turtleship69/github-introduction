@@ -8,3 +8,22 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What is your favourite pizza topping?
 
 1. PINEAPPLE
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+
