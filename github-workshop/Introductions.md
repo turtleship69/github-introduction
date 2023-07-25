@@ -12,7 +12,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 3. mushroom
 4. 
 5. curry
-6. 
+6. Pepperoni
 7. 
 8. olives
 9. 
