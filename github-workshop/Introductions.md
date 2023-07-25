@@ -9,7 +9,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 
 1. Cheese
-2. Tuna
+2. 
 3. 
 4. 
 5. 
@@ -19,7 +19,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 9. 
 10. 
 11. 
-12. 
+12. Tuna
 13. 
 14. 
 15. 
