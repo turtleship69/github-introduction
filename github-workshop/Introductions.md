@@ -15,7 +15,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 5. 
 6. 
 7. 
-8. Watermelon 🍉 (funny) 
+8. Watermelon :watermelon: (funny)
 9. 
 10. 
 11. 
@@ -27,4 +27,3 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 17. 
 18. 
 19. 
-
