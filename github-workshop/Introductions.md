@@ -9,6 +9,8 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 
 1. Cheese
+2. 
+3. mushroom
 2. curry
 3. 
 4. 
@@ -27,4 +29,3 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 17. 
 18. 
 19. 
-
