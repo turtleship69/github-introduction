@@ -14,18 +14,18 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 5. curry
 6. Pepperoni
 7. 
-8. olives
-9. 
-10. 
-11. Watermelon 🍉 (funny) 
-12. Tuna
-13. Mozzarella 
-14. 
+8. Watermelon 🍉 (funny) 
+9. olives
+10. Olives/Pepperoni 
+11. Pineapple
+13. Tuna
+14. Mozzarella 
 15. 
 16. 
 17. 
-18. Chicken
-19. Orange 🍊 
-20. 
+18. 
+19. Chicken
+20. Orange 🍊 
 21. 
 22. 
+23. 
