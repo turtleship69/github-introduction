@@ -17,7 +17,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 7. 
 8. 
 9. 
-10. 
+10.Olives/ Pepperoni 
 11. Pineapple
 12. 
 13. 
