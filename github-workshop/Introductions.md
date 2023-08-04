@@ -7,6 +7,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What is your favourite pizza topping?
 
+0. Sophia loves Pizza
 1. PINEAPPLE
 2. Jalapeños 
 3. mushroom
@@ -21,11 +22,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 13. Tuna
 14. Bread
 15. Chicken
-16. Mozzarella 
-17. 
-18. 
-19. Chicken
-20. Orange 🍊 
-21. 
-22. 
-23. 
+16. Orange 🍊 
+17. Mushrooms
+18. Mozzarella 
+19.
