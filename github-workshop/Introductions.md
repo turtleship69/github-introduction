@@ -19,9 +19,9 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 10. Olives/Pepperoni 
 11. Pineapple
 13. Tuna
-14. Mozzarella 
-15. 
-16. 
+14. Bread
+15. Chicken
+16. Mozzarella 
 17. 
 18. 
 19. Chicken
