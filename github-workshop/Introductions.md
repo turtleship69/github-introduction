@@ -25,4 +25,4 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 16. Orange 🍊 
 17. Mushrooms
 18. Mozzarella 
-19.
+19. Spinach and ricotta
