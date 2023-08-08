@@ -35,7 +35,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 26. 
 27. 
 28. 
-29. 
+29. Jalapeño 
 30. 
 31. 
 32. 
